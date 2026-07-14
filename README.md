@@ -1,16 +1,111 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sriabirami S</h1>
 
-<!--
-**Sriabirami-S/Sriabirami-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Java Backend Developer • Spring Boot Enthusiast • Full Stack Learner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Scalable+Backend+Applications;Always+Learning+New+Technologies!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sriabiramis/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://sriabirami-s.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:abiramisaravanan100@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💫 About Me
+
+💻 Passionate **Java Backend Developer** with a strong foundation in **Java, Object-Oriented Programming, MySQL, and Spring Boot**.
+
+🚀 I enjoy building scalable backend applications that solve real-world problems.
+
+🌱 Currently learning
+
+- Spring Boot
+- REST API Development
+- Hibernate & JPA
+- Docker
+- Microservices
+- AWS
+
+🎯 Looking for
+
+- Java Backend Developer
+- Software Engineer
+- Backend Developer
+- Full Stack Java Developer
+
+💡 I enjoy learning new technologies and continuously improving my development skills through real-world projects.
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,git,github,postman,idea,eclipse,vscode"/>
+
+</p>
+
+### Languages
+
+- Java
+- C
+
+### Backend
+
+- Spring
+- Spring Boot
+- REST APIs
+- JDBC
+
+### Database
+
+- MySQL
+
+### Web
+
+- HTML
+- CSS
+
+### Tools
+
+- IntelliJ IDEA
+- Eclipse IDE
+- VS Code
+- Git
+- GitHub
+- Postman
+
+---
+
+# 💼 Experience
+
+## 👩‍💻 Java Developer Intern | Pinnacle Labs
+
+- Developed Java-based applications implementing Object-Oriented Programming principles.
+- Designed backend logic with MySQL CRUD operations.
+- Built maintainable and database-driven applications.
+
+---
+
+## 🤖 Innovation Engineer Intern | Forge Innovation & Ventures
+
+- Developed IoT-based monitoring systems.
+- Worked on ROS-based Quadruped Robot simulation.
+- Contributed to hardware integration and embedded system development.
+
+---
